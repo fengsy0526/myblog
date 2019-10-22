@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48de4956-ae56-40d0-a7c4-6c8ca8cbd7d7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QzdYJGDX6YikFsFB78hAv5vA5K" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/comments" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\templates\comments" />
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\blog\templatetags" />
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog" />
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\comments" />
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\templates" />
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\templates\blog" />
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\blog\static\blog\js" />
+      <recent name="D:\Users\fengsy5\PycharmProjects\MyBlog\blog\static\blog\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyBlog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="MyBlog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MyBlog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48de4956-ae56-40d0-a7c4-6c8ca8cbd7d7" name="Default Changelist" comment="" />
+      <created>1568777405376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568777405376</updated>
+      <workItem from="1568777409003" duration="1304000" />
+      <workItem from="1568785748704" duration="9250000" />
+      <workItem from="1568799856208" duration="254000" />
+      <workItem from="1568802378496" duration="325000" />
+      <workItem from="1568862915012" duration="108000" />
+      <workItem from="1568884809733" duration="3011000" />
+      <workItem from="1569317364582" duration="3491000" />
+      <workItem from="1569403076284" duration="11879000" />
+      <workItem from="1569564486546" duration="6721000" />
+      <workItem from="1570775612642" duration="6000" />
+      <workItem from="1571040826835" duration="401000" />
+      <workItem from="1571041326392" duration="180000" />
+      <workItem from="1571042057447" duration="6906000" />
+      <workItem from="1571049418462" duration="167000" />
+      <workItem from="1571123178999" duration="6927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
